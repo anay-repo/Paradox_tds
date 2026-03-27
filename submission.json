@@ -1,6 +1,6 @@
 {
-  "prompt": "A massive photorealistic mosaic portrait filling the entire frame, viewed straight on. When seen as a whole from a distance, the mosaic clearly depicts a solid, unmistakable RED human silhouette or face — the overall image is warm red, orange-red. But every individual tile that makes up the mosaic, when examined closely, is a shade of BLUE — cool blue, steel blue, deep navy. Not a single tile is red. Every tile is blue. Yet together they form something unmistakably red. Mood: clinical, eerie, impossible. No text, no numbers, no labels, no annotations. Photorealistic. Ultra high detail.",
+  "prompt": "A massive photorealistic mosaic portrait filling the entire frame. The mosaic depicts a RED human face when viewed as a whole. But every individual tile is BLUE. Not a single tile is red. Yet together they form something unmistakably red. Mood: clinical, eerie, impossible. No text, no numbers, no labels. Photorealistic.",
   "model": "DALL-E 3 via ChatGPT Plus",
   "paradox": "Ecological Fallacy",
-  "visual_logic": "A mosaic face appears entirely red when viewed as a whole, yet every individual tile is blue. Group property and individual property are simultaneously opposite — what is true of the whole is true of none of its parts."
+  "visual_logic": "A mosaic face appears entirely red as a whole, yet every individual tile is blue. Group and individual properties are opposite — what is true of the whole is true of none of its parts."
 }
