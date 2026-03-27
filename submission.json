@@ -1,6 +1,6 @@
 {
   "prompt": "A massive photorealistic mosaic portrait filling the entire frame. The mosaic depicts a RED human face when viewed as a whole. But every individual tile is BLUE. Not a single tile is red. Yet together they form something unmistakably red. Mood: clinical, eerie, impossible. No text, no numbers, no labels. Photorealistic.",
-  "model": "DALL-E 3 via ChatGPT Plus",
-  "paradox": "Ecological Fallacy",
-  "visual_logic": "A face appears red overall, but every tile is blue. The whole shows a property that none of its parts possess."
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus) OR Banana (Gemini Imagen)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "A hillside where every individual path visibly slopes upward, but the overall mountain descends from left to right — local and global trends simultaneously visible and contradictory in one frame"
 }
